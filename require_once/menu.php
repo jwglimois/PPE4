@@ -3,7 +3,7 @@
 		<div id="menu" class="col-md-12">
 			<ul>
 				<li><a href="index.php"><span class="logo"><span class="titre_jim">Jim</span><span class="titre_bha">bha</span></br>Site de vente informatique</br><span class="titre_particulier">entre particulier</span></span></a></li>
-				<li><a href="vendre.php">Vends un objet</a></li>
+				<li><a href="vendre.php">Je veux vendre un objet</a></li>
 				<li>
 					<form method="post" action="recherche.php">
 						<a href="javascript:void(0)" id="search">Rechercher</a>
