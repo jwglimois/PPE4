@@ -362,12 +362,6 @@ input
 	font-size: 20px;
 }
 
-#titre_article p a
-{
-	text-decoration: none;
-	list-style-type: none;
-}
-
 #titre_article strong
 {
 	color: rgb(0, 174, 239);
