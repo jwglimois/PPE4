@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row">
 		<div id="menu" class="col-md-12">
-			<ul>
+			<ul class="container-fluid d-flex justify-content-between">
 				<li><a href="index.php"><span class="logo"><span class="titre_jim">Jim</span><span class="titre_bha">bha</span></br>Site de vente informatique</br><span class="titre_particulier">entre particulier</span></span></a></li>
 				<li><a href="vendre.php">Je veux vendre un objet</a></li>
 				<li>
