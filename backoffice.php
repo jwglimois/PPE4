@@ -44,7 +44,7 @@
 							</thead>
 							<tbody>
 						<?php 
-							$articles = $pdo->query('select * from article where etatVente = "En attente"');
+							$articles = $pdo->query('select * from article where etatVente = "A valider"');
 							foreach ($articles as $article)
 							{
 								$auteur = $pdo->query('select * from membre where id = '.$article['id_membre'])->fetch();
